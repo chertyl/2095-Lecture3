@@ -9,7 +9,7 @@ let express = require("express"); // third-party package (not local=> npm instal
     ON GITHUB: create a new repository and copy and paste command after setting up (option "push an existing repository from the command line")
                This will link the local repository to the remote one 
 */
-// SOURCE CONTRL in VS Code will show the number of files changes since the last commit
+// SOURCE CONTROL in VS Code will show the number of files changes since the last commit
 
 let app = express(); // instance of express application
 
